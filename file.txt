@@ -2,3 +2,4 @@ new file
 new file change
 new file change 2
 new file change 3
+new file change 4
